@@ -77,7 +77,7 @@ Awards
 Skills
 ======
 
-* **Semiconductor Device Fabrication:** ALD PECVD Sputter EBL..
+* **Semiconductor Device Fabrication:** ALD, PECVD, Sputter, EBL..
 * **Semiconductor Simulation and modeling:** First-principles calculations (QuantumATK), quantum-transport simulation
 * **Programming:** Python, MATLAB, C, LaTeX, Visual Basic
 
