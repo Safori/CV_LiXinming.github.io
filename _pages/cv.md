@@ -59,7 +59,7 @@ Wei Zhang, Chen Sun, ***Xinming Li***, Zixuan Wang, Jianze Wang, Yunuo Cen, Dong
 Awards
 ======
 
-* National First Prize **(Top 0.2%)**, National College Students' Mathematical Modeling Competition, 2022 *(Top-tier award; the highest distinction available at the undergraduate level, with eligibility for recommendation-based graduate admission)*
+* National First Prize **(Top 0.2%)**, National College Students' Mathematical Modeling Competition, 2022 *(The highest undergraduate-level award in national competitions; recipients are granted a dedicated quota for recommendation-based graduate admission by the university.)*
 * National First Prize **(Top 3%)**, MathorCup National College Students' Mathematical Modeling Challenge, 2022
 * National Second Award **(Top 10%)**, National College Students' Mathematical Modeling Challenge Competition, 2021
 * National Second Award **(Top 10%)**, American Mathematical Contest in Modeling, 2022
