@@ -23,7 +23,7 @@ repository               : "Safori/CV_LiXinming.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LIXINMING.png"
+  avatar           : "LIXINMING.jpg"
   name             : "LiXinming (李鑫鸣)"
   pronouns         : # example: "she/her"  
   bio              : "EE PhD Student of National University of Singapore"
