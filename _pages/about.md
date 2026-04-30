@@ -18,4 +18,4 @@ Prior to joining NUS, I received my Bachelor of Engineering degree from Shandong
 
 NEWs
 ------
-2026.4.30 I start my personal website. 
+**2026.4.30:** I start my personal website. 
