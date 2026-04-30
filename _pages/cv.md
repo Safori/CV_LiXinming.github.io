@@ -66,12 +66,12 @@ Wei Zhang, Chen Sun, ***Xinming Li***, Zixuan Wang, Jianze Wang, Yunuo Cen, Dong
 Awards
 ======
 
-* National First Prize **(Top 0.2%)**, National College Students' Mathematical Modeling Competition 2022
-* National First Prize **(Top 3%)**, MathorCup National College Students' Mathematical Modeling Challenge 2022
-* National Second Award **(Top 10%)**, National College Students' Mathematical Modeling Challenge Competition 2021
-* National Second Award **(Top 10%)**, American Mathematical Contest in Modeling 2022
-* Provincal Second Prize **(Top 15%)**, National College Students' Electronic Design Competition 2022
-* Provincal First Prize **(Top 10%)**, Shandong iCAN College Students' Innovation and Entrepreneurship Competition 2021
+* National First Prize **(Top 0.2%)**, National College Students' Mathematical Modeling Competition, 2022
+* National First Prize **(Top 3%)**, MathorCup National College Students' Mathematical Modeling Challenge, 2022
+* National Second Award **(Top 10%)**, National College Students' Mathematical Modeling Challenge Competition, 2021
+* National Second Award **(Top 10%)**, American Mathematical Contest in Modeling, 2022
+* Provincal Second Prize **(Top 15%)**, National College Students' Electronic Design Competition, 2022
+* Provincal First Prize **(Top 10%)**, Shandong iCAN College Students' Innovation and Entrepreneurship Competition, 2021
 
 
 Skills
