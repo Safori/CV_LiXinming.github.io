@@ -71,13 +71,13 @@ Awards
 * National Second Award **(Top 10%)**, National College Students' Mathematical Modeling Challenge Competition 2021
 * National Second Award **(Top 10%)**, American Mathematical Contest in Modeling 2022
 * Provincal Second Prize **(Top 15%)**, National College Students' Electronic Design Competition 2022
-* Provincal First Prize **(Top 10%)**, Shandong Regional Selection of the iCAN College Students' Innovation and Entrepreneurship Competition 2021
+* Provincal First Prize **(Top 10%)**, Shandong iCAN College Students' Innovation and Entrepreneurship Competition 2021
 
 
 Skills
 ======
 
+* **Semiconductor Device Fabrication:** ALD PECVD Sputter EBL..
+* **Semiconductor Simulation and modeling:** First-principles calculations (QuantumATK), quantum-transport simulation
 * **Programming:** Python, MATLAB, C, LaTeX, Visual Basic
-* **Simulation and modeling:** First-principles calculations, quantum-transport simulation, QuantumATK
-* **Research areas:** FeFETs, oxide-semiconductor memory devices, tunnel field-effect transistors, 2D materials, covalent-organic frameworks
-* **Technical background:** Semiconductor physics, quantum mechanics, solid-state physics, analog and digital circuits, signal processing
+
