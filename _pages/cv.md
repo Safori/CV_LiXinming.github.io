@@ -15,11 +15,11 @@ Education
 ======
 
 * **Ph.D. Student in Electrical Engineering**, National University of Singapore, 2024–present   
-  * Advisor: Prof. Xiao Gong  
+  * Advisor: Prof. [Xiao Gong](https://cde.nus.edu.sg/ece/staff/gong-xiao/)  
   * Research area: High-performance memory design
 
 * **B.Eng. in Micro-Nano Optoelectronic Science and Technology**, Shandong University, 2020–2024  
-  * Advisor: Prof. Yuan Li  
+  * Advisor: Prof. [Yuan Li](https://faculty.sdu.edu.cn/liyuan/en/index.htm)  
   * Research area: First-principles and quantum-transport simulations of high-performance tunnel field-effect transistors  
   * Weighted Average Score: 89/100
 
