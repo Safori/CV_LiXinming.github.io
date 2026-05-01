@@ -40,7 +40,7 @@ Publications
 ## Conference Papers
 
 [First Demonstration of Oxide Semiconductor BEOL-Compatible Dual-Gate FeFET Achieving a Record-Low Operation Voltage of 0.5 V and a Record-High Memory Window-to-Operation Voltage Ratio of 1.62](https://ieeexplore.ieee.org/document/11353768)  
-Dong Zhang*, ***Xinming Li*** *(Co-First Author), Xiaopeng Li, Zijie Zheng, Chen Sun, Yang Feng, Yuxuan Wang, Zuopu Zhou, Gan Liu, Xiaolin Wang, Jiezhi Chen, Xiao Gong  
+Dong Zhang*, ***Xinming Li****(Co-First Author), Xiaopeng Li, Zijie Zheng, Chen Sun, Yang Feng, Yuxuan Wang, Zuopu Zhou, Gan Liu, Xiaolin Wang, Jiezhi Chen, Xiao Gong  
 *IEEE International Electron Devices Meeting (IEDM)*, 2025  
 
 [First Demonstration of 3D Fe-VNAND with Function-Separated Dual-Layer Oxide Semiconductor Channel and Laminated Ferroelectric Stack](https://ieeexplore.ieee.org/document/11353857)  
