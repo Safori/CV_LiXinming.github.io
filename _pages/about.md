@@ -20,8 +20,8 @@ Prior to joining NUS, I received my Bachelor of Engineering degree from Shandong
 **2026.06:** I gave a presentation at the 2026 IEEE Symposium on VLSI Technology and Circuits.
 
 <p>
-  <img src="{{ '/images/vlsi2026-1.jpg' | relative_url }}" alt="VLSI 2026 photo 1" style="width:48%; max-width:360px; margin-right:10px;">
-  <img src="{{ '/images/vlsi2026-2.jpg' | relative_url }}" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
+  <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 1" style="width:48%; max-width:360px; margin-right:10px;">
+  <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-2.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
 </p>
 
 **2026.04.30:** I started my personal website.
