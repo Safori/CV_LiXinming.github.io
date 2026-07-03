@@ -9,7 +9,8 @@ tags:
   - memory
   - microelectronics
 ---
- 
+In June 2026, I attended VLSI 2026 in Hawaii for my first academic conference presentation, where I shared our work on twin-gate OS-FeFETs and gained valuable experience through discussions with researchers from around the world.
+
 ## My First Academic Conference
 
 In June 2026, I attended the IEEE Symposium on VLSI Technology and Circuits in Hawaii. This was my first time attending an academic conference, and it was also my first time giving a formal conference presentation.
