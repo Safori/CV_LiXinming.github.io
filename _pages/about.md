@@ -2,7 +2,7 @@
 permalink: /
 title: "Li Xinming (李鑫鸣)"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,14 +15,13 @@ Prior to joining NUS, I received my Bachelor of Engineering degree from Shandong
 
 在那之前，我于2024年在山东大学取得了工学学士学位，指导老师是李元教授。研究方向是高性能隧穿场效应晶体管的第一性原理计算。
 
+## News
 
-NEWs
-------
+**2026.06:** I gave a presentation at the 2026 IEEE Symposium on VLSI Technology and Circuits.
 
-**2026.06:** I give a presentation on the 2026 IEEE Symposium on VLSI Technology and Circuits, the flagship conference in microelectronics.
+<p>
+  <img src="{{ '/images/vlsi2026-1.jpg' | relative_url }}" alt="VLSI 2026 photo 1" style="width:48%; max-width:360px; margin-right:10px;">
+  <img src="{{ '/images/vlsi2026-2.jpg' | relative_url }}" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
+</p>
 
-<div style="display: flex; gap: 12px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 1" style="width: 48%; border-radius: 6px;">
-  <img src="{{ site.baseurl }}/images/vlsi2026-2.jpg" alt="VLSI 2026 photo 2" style="width: 48%; border-radius: 6px;">
-</div>
-**2026.4.30:** I start my personal website. 
+**2026.04.30:** I started my personal website.
