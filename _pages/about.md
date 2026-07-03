@@ -18,4 +18,11 @@ Prior to joining NUS, I received my Bachelor of Engineering degree from Shandong
 
 NEWs
 ------
+
+**2026.06:** I give a presentation on the 2026 IEEE Symposium on VLSI Technology and Circuits, the flagship conference in microelectronics.
+
+<div style="display: flex; gap: 12px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 1" style="width: 48%; border-radius: 6px;">
+  <img src="{{ site.baseurl }}/images/vlsi2026-2.jpg" alt="VLSI 2026 photo 2" style="width: 48%; border-radius: 6px;">
+</div>
 **2026.4.30:** I start my personal website. 
