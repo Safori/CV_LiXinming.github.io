@@ -17,7 +17,7 @@ Prior to joining NUS, I received my Bachelor of Engineering degree from Shandong
 
 ## News
 
-**2026.06:** I gave a presentation at the 2026 IEEE Symposium on VLSI Technology and Circuits in Hawaii. As one of the top conferences in the field of microelectronics, VLSI provided me with a valuable opportunity to present my work. Presenting in the same session as IBM, Samsung, and Intel was a bit nerve-racking, but it was also an extremely rewarding experience.
+**2026.06.17:** I gave a presentation at the 2026 IEEE Symposium on VLSI Technology and Circuits in Hawaii. As one of the top conferences in the field of microelectronics, VLSI provided me with a valuable opportunity to present my work. Presenting in the same session as IBM, Samsung, and Intel was a bit nerve-racking, but it was also an extremely rewarding experience.
 
 <p>
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 1" style="width:48%; max-width:360px; margin-right:10px;">
