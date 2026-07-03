@@ -14,7 +14,7 @@ tags:
 
 In June 2026, I attended the IEEE Symposium on VLSI Technology and Circuits in Hawaii. This was my first time attending an academic conference, and it was also my first time giving a formal conference presentation.
 
-For me, this experience was exciting, nervous, and unforgettable. VLSI is one of the top conferences in the field of microelectronics, so having the opportunity to present my work there was an important milestone in my Ph.D. journey.
+For me, this experience was exciting, nervous, and unforgettable. VLSI is one of the top conferences in the field of microelectronics, and my presentation is in the same session with **IBM, Intel and Samsung**. So, having the opportunity to present my work there was an important milestone in my Ph.D. journey.
 
 ## My Presentation
 
@@ -26,7 +26,7 @@ This work focuses on oxide-semiconductor ferroelectric field-effect transistors,
 
 The key idea of our work is to introduce a **twin-gate FeFET architecture** together with a carefully engineered interlayer. This design provides additional freedom to control the voltage distribution across the gate stack, thereby enhancing ferroelectric switching and improving memory performance.
 
-One of the main highlights is that our device achieves a **record-high memory window of 25.4 V** at an operation voltage of 13.5 V, corresponding to a near-ideal **memory-window-to-operation-voltage ratio of 1.88**. In addition, the device maintains a memory window larger than 15 V after **10^7 endurance cycles**, showing a promising balance between large memory window and high endurance.
+One of the main highlights is that our device achieves a **record-high memory window of 25.4 V** at an operation voltage of 13.5 V, corresponding to a near-ideal **memory-window-to-operation-voltage ratio of 1.88**. In addition, the device maintains **a memory window larger than 15 V after 10^7 endurance cycles**, showing a promising balance between large memory window and high endurance.
 
 These results suggest that the proposed twin-gate FeFET architecture may provide a scalable pathway toward high-performance and energy-efficient memory devices for future AI hardware.
 
@@ -49,4 +49,5 @@ Overall, attending VLSI 2026 was a very important experience for me. It not only
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-2.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-4.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
+  
 </p>
