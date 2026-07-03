@@ -1,6 +1,6 @@
 ---
 title: "My First Academic Conference Presentation at VLSI 2026"
-date: 2026-06-xx
+date: 2026-06-17
 permalink: /posts/2026/06/my-first-academic-conference-vlsi-2026/
 tags:
   - VLSI
