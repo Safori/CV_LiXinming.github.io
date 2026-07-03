@@ -44,5 +44,4 @@ Overall, attending VLSI 2026 was a very important experience for me. It not only
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-2.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-4.jpg" alt="VLSI 2026 photo 2" style="width:48%; max-width:360px;">
-  
 </p>
