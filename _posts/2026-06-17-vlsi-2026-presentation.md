@@ -30,11 +30,6 @@ One of the main highlights is that our device achieves a **record-high memory wi
 
 These results suggest that the proposed twin-gate FeFET architecture may provide a scalable pathway toward high-performance and energy-efficient memory devices for future AI hardware.
 
-## A Memorable Session
-
-Since this was my first academic conference presentation, I felt quite nervous before the talk. Presenting in the same session as researchers from leading companies such as IBM, Samsung, and Intel made the experience even more challenging.
-
-However, it was also an extremely rewarding and memorable experience. It gave me the opportunity to share my research with experts in the field and to receive feedback from a broader research community.
 
 ## Communication and Acknowledgement
 
