@@ -17,7 +17,7 @@ Prior to joining NUS, I received my Bachelor of Engineering degree from Shandong
 
 ## News
 
-**2026.06:** I gave a presentation at the 2026 IEEE Symposium on VLSI Technology and Circuits.
+**2026.06:** I gave a presentation at the 2026 IEEE Symposium on VLSI Technology and Circuits. The topic is "BEOL-Compatible Oxide Semiconductor Twin-Gate FeFET Achieving a Record-High Memory Window of 25.4 V and a Near-Ideal Memory Window-to-Operation Voltage Ratio of 1.88". It was both exciting and rewarding to present in the same session as IBM, Samsung, and Intel.
 
 <p>
   <img src="https://safori.github.io/CV_LiXinming.github.io/images/vlsi2026-1.jpg" alt="VLSI 2026 photo 1" style="width:48%; max-width:360px; margin-right:10px;">
