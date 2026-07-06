@@ -51,7 +51,7 @@ Chen Sun, ***Xinming Li***, Dong Zhang, Wei Shi, Yue Chen, Gan Liu, Rui Shao, Qi
 Gan Liu, Qiwen Kong, Jingguang Lu, ***Xinming Li***, Chen Sun, Dong Zhang, Xiaolin Wang, Gengchiau Liang, Xiao Gong  
 *IEEE Symposium on VLSI Technology and Circuits*, 2025  
 
-## Journal Articles
+## Journal Papers
 
 [Multi-Grain Ferroelectric Induced Drain Current Variability in BEOL-Compatible OS FeFETs](https://ieeexplore.ieee.org/document/11284831)  
 Wei Zhang, Chen Sun, ***Xinming Li***, Zixuan Wang, Jianze Wang, Yunuo Cen, Dong Zhang, Tao Du, Ye Lu, Xiao Gong, Xuanyao Fong  
