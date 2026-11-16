@@ -1,0 +1,43 @@
+{
+  "name": "Xinming Li",
+  "chinese_name": "李鑫鸣",
+  "position": "PhD Student · Electrical Engineering",
+  "institution": "National University of Singapore",
+  "email": "xinmingli@u.nus.edu",
+  "scholar": "https://scholar.google.com/citations?user=pD_SnqMAAAAJ",
+  "orcid": "https://orcid.org/0009-0000-8793-7186",
+  "github": "https://github.com/Safori",
+  "portrait": "assets/portrait.png",
+  "biography": [
+    "I am a PhD student at the College of Design and Engineering, National University of Singapore, advised by Prof. Xiao Gong. My research focuses on high-performance memory devices.",
+    "I received my B.Eng. from Shandong University in 2024, where I worked with Prof. Yuan Li on first-principles and quantum-transport simulations of tunnel field-effect transistors."
+  ],
+  "interests": [
+    "Ferroelectric memory and BEOL-compatible oxide-semiconductor FeFETs",
+    "Dual-gate device structures and three-dimensional memory architectures",
+    "Device reliability, first-principles calculations, and quantum transport"
+  ],
+  "education": [
+    {
+      "period": "2024 — Present",
+      "institution": "National University of Singapore",
+      "degree": "PhD in Electrical Engineering (in progress)",
+      "advisor": "Prof. Xiao Gong"
+    },
+    {
+      "period": "2020 — 2024",
+      "institution": "Shandong University",
+      "degree": "B.Eng. in Micro-Nano Optoelectronic Science and Technology",
+      "advisor": "Prof. Yuan Li"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-06-17",
+      "display_date": "Jun 2026",
+      "text": "I presented my work on oxide-semiconductor twin-gate FeFETs at the IEEE Symposium on VLSI Technology and Circuits in Hawaii.",
+      "image": "assets/vlsi-2026.jpg",
+      "caption": "VLSI Symposium, Hawaii · 17 June 2026"
+    }
+  ]
+}

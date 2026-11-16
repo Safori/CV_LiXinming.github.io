@@ -1,0 +1,111 @@
+[
+  {
+    "id": "11284831",
+    "title": "Multi-Grain Ferroelectric Induced Drain Current Variability in BEOL-Compatible OS FeFETs",
+    "url": "https://ieeexplore.ieee.org/document/11284831",
+    "year": 2026,
+    "short_venue": "IEEE EDL",
+    "venue": "IEEE Electron Device Letters",
+    "type": "journal",
+    "authors": [
+      "Wei Zhang",
+      "Chen Sun",
+      "Xinming Li",
+      "Zixuan Wang",
+      "Jianze Wang",
+      "Yunuo Cen",
+      "Dong Zhang",
+      "Tao Du",
+      "Ye Lu",
+      "Xiao Gong",
+      "Xuanyao Fong"
+    ],
+    "co_first": false
+  },
+  {
+    "id": "11353768",
+    "title": "First Demonstration of Oxide Semiconductor BEOL-Compatible Dual-Gate FeFET Achieving a Record-Low Operation Voltage of 0.5 V and a Record-High Memory Window-to-Operation Voltage Ratio of 1.62",
+    "url": "https://ieeexplore.ieee.org/document/11353768",
+    "year": 2025,
+    "short_venue": "IEDM",
+    "venue": "IEEE International Electron Devices Meeting",
+    "type": "conference",
+    "authors": [
+      "Dong Zhang",
+      "Xinming Li",
+      "Xiaopeng Li",
+      "Zijie Zheng",
+      "Chen Sun",
+      "Yang Feng",
+      "Yuxuan Wang",
+      "Zuopu Zhou",
+      "Gan Liu",
+      "Xiaolin Wang",
+      "Jiezhi Chen",
+      "Xiao Gong"
+    ],
+    "co_first": true
+  },
+  {
+    "id": "11353857",
+    "title": "First Demonstration of 3D Fe-VNAND with Function-Separated Dual-Layer Oxide Semiconductor Channel and Laminated Ferroelectric Stack",
+    "url": "https://ieeexplore.ieee.org/document/11353857",
+    "year": 2025,
+    "short_venue": "IEDM",
+    "venue": "IEEE International Electron Devices Meeting",
+    "type": "conference",
+    "authors": [
+      "Chen Sun",
+      "Xinming Li",
+      "Dong Zhang",
+      "Wei Shi",
+      "Yue Chen",
+      "Gan Liu",
+      "Rui Shao",
+      "Qiwen Kong",
+      "Yuxuan Wang",
+      "Leming Jiao",
+      "Zuopu Zhou",
+      "Yang Feng",
+      "Xiaolin Wang",
+      "Kai Ni",
+      "Xiao Gong"
+    ],
+    "co_first": false
+  },
+  {
+    "id": "11074814",
+    "title": "A Generalizable Tri-Layer Design Framework for Enhancing OSFET Reliability",
+    "url": "https://ieeexplore.ieee.org/document/11074814",
+    "year": 2025,
+    "short_venue": "VLSI",
+    "venue": "IEEE Symposium on VLSI Technology and Circuits",
+    "type": "conference",
+    "authors": [
+      "Gan Liu",
+      "Qiwen Kong",
+      "Jingguang Lu",
+      "Xinming Li",
+      "Chen Sun",
+      "Dong Zhang",
+      "Xiaolin Wang",
+      "Gengchiau Liang",
+      "Xiao Gong"
+    ],
+    "co_first": false
+  },
+  {
+    "id": "acsanm-3c03366",
+    "title": "Toward Nanoscale Organic Tunnel Field-Effect Transistors with Small Subthreshold Swing and High On-State Current: A Computational Design Based on Two-Dimensional Covalent-Organic Frameworks",
+    "url": "https://doi.org/10.1021/acsanm.3c03366",
+    "year": 2024,
+    "short_venue": "ACS ANM",
+    "venue": "ACS Applied Nano Materials",
+    "type": "journal",
+    "authors": [
+      "Xinming Li",
+      "Yuan Li"
+    ],
+    "co_first": false
+  }
+]
