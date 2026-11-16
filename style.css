@@ -7,11 +7,6 @@
 .author-me{white-space:nowrap}
 
 .paper-summary{font-size:var(--small);line-height:1.65;color:var(--text);margin-top:8px}
-.highlights{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:8px 0 0;padding:8px 0 24px}
-.highlight{background:var(--light);border-radius:6px;padding:20px 22px}
-.highlight b{display:block;font-size:26px;color:var(--heading)}
-.highlight p{font-size:var(--body);color:var(--text);margin-top:8px}
-.highlight span{display:block;font-size:var(--small);color:var(--muted);margin-top:10px}
 .page-top{padding-top:48px}
 .page-top h1{font-size:32px}
 .page-intro{color:var(--muted);max-width:720px;margin-top:12px}
@@ -30,4 +25,4 @@
 .post-photos{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}
 .post-photos img{width:calc(50% - 6px);height:auto;border-radius:3px}
 nav a[aria-current="page"]{color:var(--link);font-weight:700}
-@media(max-width:700px){.highlights{grid-template-columns:1fr}.page-top{padding-top:32px}.page-top h1{font-size:28px}.post-photos img{width:100%}}
+@media(max-width:700px){.page-top{padding-top:32px}.page-top h1{font-size:28px}.post-photos img{width:100%}}

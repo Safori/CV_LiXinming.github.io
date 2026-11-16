@@ -67,19 +67,8 @@ def render():
                   interests=''.join('<li>'+E(i)+'</li>' for i in site['interests']),
                   news=news, education=education)
     # --- Home ---
-    hl=[
-        ('25.4 V','Record-high memory window among all reported FeFETs','11577596','Twin-gate FeFET · VLSI 2026'),
-        ('0.5 V','Record-low operation voltage among all reported FeFETs','11353768','Dual-gate FeFET · IEDM 2025'),
-        ('10.3 V','Memory window under ±13 V operation, 10-year retention','accepted','Dual-gate PB-CTF · IEDM 2026 (accepted)')]
-    highlights=''
-    for num,desc,pid,cap in hl:
-        if pid=='accepted':
-            link=f'<a href="publications.html">{cap}</a>'
-        else:
-            link=f'<a href="{E(by_id[pid]["url"])}">{cap}</a>'
-        highlights+=f'<div class="highlight"><b>{num}</b><p>{E(desc)}</p><span>{link}</span></div>'
     selected=[p for p in pubs_sorted if p['authors'][0]==site['name'] or p['co_first']][:3]
-    values.update(nav=nav('index.html'), highlights=highlights,
+    values.update(nav=nav('index.html'),
                   selected_publications=''.join(article(p,site,False) for p in selected))
     (ROOT/'dist/index.html').write_text(fill('index.html',values),encoding='utf-8')
     # --- Research ---
