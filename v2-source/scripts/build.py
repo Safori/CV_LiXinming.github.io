@@ -34,13 +34,15 @@ def short_authors(p, site):
     try: mi=p['authors'].index(site['name'])
     except ValueError: mi=-1
     shown=max(3,mi+1) if mi>=0 else 3
-    short=', '.join(p['authors'][:shown])
+    starred=set(p.get('co_first_authors',[]))
+    short=', '.join(a+('*' if a in starred else '') for a in p['authors'][:shown])
     if len(p['authors'])>shown:short+=', et al.'
     if mi>=0 and mi<shown:short=E(short).replace(E(site['name']),'<strong class="author-me">'+E(site['name'])+'</strong>')
     else:short=E(short)
     return short
 def full_authors(p, site):
-    return ', '.join('<strong class="author-me">'+E(a)+'</strong>' if a==site['name'] else E(a) for a in p['authors'])
+    starred=set(p.get('co_first_authors',[]))
+    return ', '.join('<strong class="author-me">'+E(a)+('*' if a in starred else '')+'</strong>' if a==site['name'] else E(a)+('*' if a in starred else '') for a in p['authors'])
 def article(p, site, copy_button):
     short=short_authors(p, site)
     names=full_authors(p, site)

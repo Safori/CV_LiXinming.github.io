@@ -1,1 +1,20 @@
-{"authors":["Xiaoqing Sun","Xinming Li","Dong Zhang","Kai Ni","Chen Sun","Xiao Gong"],"co_first":true,"status":"Accepted Sep 2026 · to be presented Dec 12–16, 2026, San Francisco","summary":"We propose the first oxide-semiconductor dual-gate polarization-boosted charge-trapping flash, with a comprehensive model coupling antiferroelectric polarization switching, tunneling, and charge trapping. The device achieves a 10.3 V memory window under ±13 V operation, keeps 6.9 V after 10^5 program/erase cycles, and shows projected 10-year retention.","title":"First Demonstration of Oxide-Semiconductor Dual-Gate Polarization-Boosted Charge-Trapping Flash: Comprehensive Modeling and Experimental Validation","venue":"IEEE International Electron Devices Meeting (IEDM 2026)","year":2026}
+{
+  "authors": [
+    "Xiaoqing Sun",
+    "Xinming Li",
+    "Dong Zhang",
+    "Kai Ni",
+    "Chen Sun",
+    "Xiao Gong"
+  ],
+  "co_first": true,
+  "status": "Accepted Sep 2026 · to be presented Dec 12–16, 2026, San Francisco",
+  "summary": "We propose the first oxide-semiconductor dual-gate polarization-boosted charge-trapping flash, with a comprehensive model coupling antiferroelectric polarization switching, tunneling, and charge trapping. The device achieves a 10.3 V memory window under ±13 V operation, keeps 6.9 V after 10^5 program/erase cycles, and shows projected 10-year retention.",
+  "title": "First Demonstration of Oxide-Semiconductor Dual-Gate Polarization-Boosted Charge-Trapping Flash: Comprehensive Modeling and Experimental Validation",
+  "venue": "IEEE International Electron Devices Meeting (IEDM 2026)",
+  "year": 2026,
+  "co_first_authors": [
+    "Xiaoqing Sun",
+    "Xinming Li"
+  ]
+}

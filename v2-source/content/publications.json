@@ -73,7 +73,11 @@
       "Xiao Gong"
     ],
     "co_first": true,
-    "summary": "Using gate-area-ratio engineering, we demonstrate a dual-gate OS FeFET operating at a record-low 0.5 V with endurance over 10⁹ cycles, and a record-high memory-window-to-operation-voltage ratio of 1.62 at 1.25 V."
+    "summary": "Using gate-area-ratio engineering, we demonstrate a dual-gate OS FeFET operating at a record-low 0.5 V with endurance over 10⁹ cycles, and a record-high memory-window-to-operation-voltage ratio of 1.62 at 1.25 V.",
+    "co_first_authors": [
+      "Dong Zhang",
+      "Xinming Li"
+    ]
   },
   {
     "id": "11353857",
