@@ -46,7 +46,7 @@ def article(p, site, copy_button):
     names=full_authors(p, site)
     citation=', '.join(p['authors'])+'. "'+p['title']+'." '+p['venue']+', '+str(p['year'])+'. '+p['url']
     search=E(' '.join([p['title'],' '.join(p['authors']),str(p['year']),p['venue'],p.get('short_venue',''),p.get('type',''),p.get('summary','')]).lower())
-    badge='<span class="cofirst">Co-first author</span>' if p['co_first'] else ''
+    badge='<span class="badge-cofirst">Co-first author</span>' if p['co_first'] else ''
     summary=f'<p class="paper-summary">{E(p["summary"])}</p>' if p.get('summary') else ''
     copy=f'<button class="copy-citation" data-citation="{E(citation)}" hidden>Copy citation</button>' if copy_button else ''
     return f'''<article class="paper" data-kind="{E(p['type'])}" data-search="{search}"><div class="paper-meta"><span>{p['year']}</span><span>{E(p['short_venue'])}</span></div><div><h3><a href="{E(p['url'])}">{E(p['title'])}</a></h3><p>{short}</p><p class="venue">{E(p['venue'])}{badge}</p>{summary}<div class="paper-actions"><a href="{E(p['url'])}">Publisher</a>{copy}<details class="authors-details"><summary>All authors</summary><p>{names}</p></details></div></div></article>'''
@@ -67,11 +67,20 @@ def render():
                   interests=''.join('<li>'+E(i)+'</li>' for i in site['interests']),
                   news=news, education=education)
     # --- Home ---
-    stats=''.join(f'<div class="stat"><b>{b}</b><span>{s}</span></div>' for b,s in [
-        ('6','peer-reviewed papers, 2024–2026'),('2','first-author papers'),
-        ('2× VLSI · 2× IEDM','top conference papers'),('1','paper accepted at IEDM 2026')])
-    values.update(nav=nav('index.html'), stats=stats,
-                  selected_publications=''.join(article(p,site,False) for p in pubs_sorted[:3]))
+    hl=[
+        ('25.4 V','Record-high memory window among all reported FeFETs','11577596','Twin-gate FeFET · VLSI 2026'),
+        ('0.5 V','Record-low operation voltage among all reported FeFETs','11353768','Dual-gate FeFET · IEDM 2025'),
+        ('10.3 V','Memory window under ±13 V operation, 10-year retention','accepted','Dual-gate PB-CTF · IEDM 2026 (accepted)')]
+    highlights=''
+    for num,desc,pid,cap in hl:
+        if pid=='accepted':
+            link=f'<a href="publications.html">{cap}</a>'
+        else:
+            link=f'<a href="{E(by_id[pid]["url"])}">{cap}</a>'
+        highlights+=f'<div class="highlight"><b>{num}</b><p>{E(desc)}</p><span>{link}</span></div>'
+    selected=[p for p in pubs_sorted if p['authors'][0]==site['name'] or p['co_first']][:3]
+    values.update(nav=nav('index.html'), highlights=highlights,
+                  selected_publications=''.join(article(p,site,False) for p in selected))
     (ROOT/'dist/index.html').write_text(fill('index.html',values),encoding='utf-8')
     # --- Research ---
     themes=[]
@@ -86,7 +95,7 @@ def render():
     (ROOT/'dist/research.html').write_text(fill('research.html',{**values,'nav':nav('research.html'),'themes':''.join(themes)}),encoding='utf-8')
     # --- Publications (full list + accepted) ---
     acc_names=full_authors(accepted,site)
-    acc_badge='<span class="cofirst">Co-first author</span>' if accepted['co_first'] else ''
+    acc_badge='<span class="badge-cofirst">Co-first author</span>' if accepted['co_first'] else ''
     accepted_html=f'''<article class="paper"><div class="paper-meta"><span>{accepted['year']}</span><span>IEDM</span></div><div><h3>{E(accepted['title'])}</h3><p>{short_authors(accepted,site)}</p><p class="venue">{E(accepted['venue'])}{acc_badge}</p><p class="paper-summary">{E(accepted['summary'])}</p><p class="muted">{E(accepted['status'])}</p><div class="paper-actions"><details class="authors-details"><summary>All authors</summary><p>{acc_names}</p></details></div></div></article>'''
     (ROOT/'dist/publications.html').write_text(fill('publications.html',{**values,'nav':nav('publications.html'),
         'accepted':accepted_html,
