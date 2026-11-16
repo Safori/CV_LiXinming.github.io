@@ -33,6 +33,11 @@
   ],
   "news": [
     {
+      "date": "2026-09",
+      "display_date": "Sep 2026",
+      "text": "Our paper on the first oxide-semiconductor dual-gate polarization-boosted charge-trapping flash (PB-CTF) was accepted by the IEEE International Electron Devices Meeting (IEDM)."
+    },
+    {
       "date": "2026-06-17",
       "display_date": "Jun 2026",
       "text": "I presented my work on oxide-semiconductor twin-gate FeFETs at the IEEE Symposium on VLSI Technology and Circuits in Hawaii.",

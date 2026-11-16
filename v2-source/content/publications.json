@@ -1,5 +1,32 @@
 [
   {
+    "id": "11577596",
+    "title": "BEOL-Compatible Oxide Semiconductor Twin-Gate FeFET Achieving a Record-High Memory Window of 25.4 V and a Near-Ideal Memory Window-to-Operation Voltage Ratio of 1.88",
+    "url": "https://ieeexplore.ieee.org/document/11577596",
+    "year": 2026,
+    "short_venue": "VLSI",
+    "venue": "IEEE Symposium on VLSI Technology and Circuits",
+    "type": "conference",
+    "authors": [
+      "Xinming Li",
+      "Ning Ji",
+      "Leming Jiao",
+      "Yi Tong",
+      "Gan Liu",
+      "Chaoming Wu",
+      "Trinh Duy Hieu",
+      "Zhilun Zhang",
+      "Jiawei Sun",
+      "Kai Ni",
+      "Gengchiau Liang",
+      "Chen Sun",
+      "Dong Zhang",
+      "Xiao Gong"
+    ],
+    "co_first": false,
+    "summary": "We demonstrate a twin-gate architecture for BEOL-compatible oxide-semiconductor FeFETs with channel lengths down to 30 nm, achieving a record-high memory window of 25.4 V at 13.5 V operation (memory-window-to-operation-voltage ratio 1.88, near the theoretical limit) while retaining over 15 V after 10⁷ cycles."
+  },
+  {
     "id": "11284831",
     "title": "Multi-Grain Ferroelectric Induced Drain Current Variability in BEOL-Compatible OS FeFETs",
     "url": "https://ieeexplore.ieee.org/document/11284831",
@@ -20,7 +47,8 @@
       "Xiao Gong",
       "Xuanyao Fong"
     ],
-    "co_first": false
+    "co_first": false,
+    "summary": "We study intrinsic variability in BEOL-compatible ZnO-channel OS FeFETs scaled to 40 nm, finding drain-current variation rises monotonically under full switching but non-monotonically under partial switching, driven by stochastic percolation and ferroelectric grain inhomogeneity."
   },
   {
     "id": "11353768",
@@ -44,7 +72,8 @@
       "Jiezhi Chen",
       "Xiao Gong"
     ],
-    "co_first": true
+    "co_first": true,
+    "summary": "Using gate-area-ratio engineering, we demonstrate a dual-gate OS FeFET operating at a record-low 0.5 V with endurance over 10⁹ cycles, and a record-high memory-window-to-operation-voltage ratio of 1.62 at 1.25 V."
   },
   {
     "id": "11353857",
@@ -71,7 +100,8 @@
       "Kai Ni",
       "Xiao Gong"
     ],
-    "co_first": false
+    "co_first": false,
+    "summary": "We demonstrate the first 3D ferroelectric vertical NAND with a dual-layer oxide-semiconductor channel and a laminated ferroelectric stack, reaching a 9.6 V memory window in the 3D string with endurance and retention beyond 10⁹ cycles."
   },
   {
     "id": "11074814",
@@ -92,7 +122,8 @@
       "Gengchiau Liang",
       "Xiao Gong"
     ],
-    "co_first": false
+    "co_first": false,
+    "summary": "We propose a tri-layer design that tackles positive and negative bias temperature instability together, using a hydrogen-reservoir top layer and a hydrogen-barrier passivation layer to reach a record-low threshold-voltage shift in IGZTO FETs."
   },
   {
     "id": "acsanm-3c03366",
@@ -106,6 +137,7 @@
       "Xinming Li",
       "Yuan Li"
     ],
-    "co_first": false
+    "co_first": false,
+    "summary": "Using first-principles and quantum-transport calculations, we design nanoscale organic tunnel FETs based on two-dimensional covalent-organic frameworks with subthreshold swing down to 21 mV/dec and on-state current up to 887.5 μA/μm, meeting IRDS targets for high-performance and low-power devices."
   }
 ]
